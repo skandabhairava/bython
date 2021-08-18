@@ -12,7 +12,11 @@ py by.py <filelocation>.by
 py by.py <fileloc>.by -e py
 ```
 
-Linux : 
+- Linux : 
 ```bash
 python3 by.py <fileloc>.by -e python3
 ```
+
+-------------------
+known errors : 
+- Requires a semicolon after comments, and after each line in a multiline string
