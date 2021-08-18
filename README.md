@@ -20,3 +20,4 @@ python3 by.py <fileloc>.by -e python3
 -------------------
 known errors : 
 - Requires a semicolon after comments, and after each line in a multiline string
+- Conditional </> operators require a \ before the operator, for ex :  `if x < y` should be written as  `if x \< y`
