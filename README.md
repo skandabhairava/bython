@@ -1,5 +1,5 @@
 .by file is written using python syntaxes, but with <, > and ;\
-check out abc.by for an example\
+check out abc.by for an example
 
 >To convert a program : 
 ```bash
